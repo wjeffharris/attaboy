@@ -1,7 +1,8 @@
 A reddit Clone
+_____________________________________
+TEAM:
 
-Team
+    Jeff Harris
+    Taylor Blocker
+    Gaura Klein
 
-Jeff Harris
-Taylor Blocker
-Gaura Klein
